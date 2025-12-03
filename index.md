@@ -1,6 +1,6 @@
 <p align="center">
-  <strong><a href="index.md">Accueil</a></strong> •
-  <strong><a href="publications.md">Publications</a></strong> •
+  <strong><a href="index.html">Accueil</a></strong> •
+  <strong><a href="publications.html">Publications</a></strong> •
   <strong><a href="https://zenodo.org/search?q=Mathieu%20Roy">Zenodo</a></strong> •
   <strong><a href="https://orcid.org/0009-0005-4098-0319">ORCID</a></strong>
 </p>
