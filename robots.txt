@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://matolechat.github.io/mathieu-roy/sitemap.xml
