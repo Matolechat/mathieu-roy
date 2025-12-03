@@ -1,3 +1,29 @@
-theme: jekyll-theme-minimal
 title: "Mathieu Roy — Research Archive"
-description: "Fractal Geometry • AGI Emergence • Recursive Cognition"
+description: >
+  Personal research archive for the Signal True Always True project:
+  fractal vector geometry, AGI emergence, recursive cognition, and
+  related white papers & tomes.
+
+# L’URL de base de ton site GitHub Pages
+url: "https://matolechat.github.io"
+baseurl: "/mathieu-roy"
+
+author:
+  name: "Mathieu Roy"
+  orcid: "0009-0005-4098-0319"
+  url: "https://matolechat.github.io/mathieu-roy/"
+
+# Liens académiques importants (utilisés par jekyll-seo-tag)
+social:
+  github: "Matolechat"
+  researchgate: "https://www.researchgate.net/profile/Mathieu-Roy-30"
+  osf: "https://osf.io/sa2fb/"
+  zenodo: "https://doi.org/10.5281/zenodo.17538402"   # DOI du White Paper
+
+# Thème utilisé par GitHub Pages ("Theme by orderedlist")
+theme: jekyll-theme-minimal
+
+# Plugins SEO + sitemap pris en charge par GitHub Pages
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
