@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Signal True Always True — Research Archive"
+authors:
+  - family-names: "Roy"
+    given-names: "Mathieu"
+    orcid: "0000-0005-4098-0319"
+contact:
+  name: "Mathieu Roy"
+  email: ""
+repository-code: "https://github.com/Matolechat/mathieu-roy"
+url: "https://matolechat.github.io/mathieu-roy"
+keywords:
+  - fractal geometry
+  - AGI emergence
+  - topology
+  - recursive cognition
+  - consciousness
+  - information entropy
+  - Signal True Always True
+doi: "10.5281/zenodo.17538402"
+message: "If you use this research, please cite using this metadata."
