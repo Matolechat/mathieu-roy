@@ -21,6 +21,15 @@ These DOIs belong to the evolving **Signal True Always True Research Collection*
 All PDF files and tomes will be archived in the GitHub repository under:  
 `/tomes/`
 
+## 📂 Download PDFs
+
+Here are the first documents available in the Signal True Always True research archive:
+
+- **Fractal Vector Geometry v3.0 — White Paper**  
+  👉 [Download PDF](./tomes/fractal_vector_geometry_v3.0.pdf)
+
+- **Two-Mode Theory of Reference (2025)**  
+  👉 [Download PDF](./tomes/two_mode_theory_of_reference.pdf)
 ---
 
 ## 🔬 Core Research Themes
