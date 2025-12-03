@@ -59,7 +59,7 @@ Development notes, memory loops, and conceptual AGI components will be stored in
 ---
 
 ## 📩 Contact
-- ResearchGate: https://www.researchgate.net/profile/Mathieu-Roy-30  
+- ResearchGate: https://www.researchgate.net/profile/Mathieu-Roy-15
 - ORCID: **0009-0005-4098-0319**  
 - GitHub: https://github.com/Matolechat  
 
