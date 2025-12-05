@@ -26,19 +26,23 @@ These DOIs belong to the evolving **Signal True Always True Research Collection*
 - https://doi.org/10.5281/zenodo.17505855  
 - https://doi.org/10.5281/zenodo.17502958  
 - https://doi.org/10.5281/zenodo.17505854  
-
+- https://doi.org/10.5281/zenodo.17832587
 All PDF files and tomes will be archived in the GitHub repository under:  
 `/tomes/`
 
 ## 📂 Download PDFs
 
 Here are the first documents available in the Signal True Always True research archive:
+### 📘 Signal True Always True: A Grand Unified Fractal Theory (GUT) Version v1.1 — Including the Extended Fractal Coherence Model (EXT)
+
+  👉 [Download PDF](./tomes/grand_unified_theory_STAT_v1.1.pdf)
 
 - **Fractal Vector Geometry v3.0 — White Paper**  
   👉 [Download PDF](./tomes/fractal_vector_geometry_v3.0.pdf)
 
 - **Two-Mode Theory of Reference (2025)**  
   👉 [Download PDF](./tomes/two_mode_theory_of_reference.pdf)
+  
 ---
 
 ## 🔬 Core Research Themes
