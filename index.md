@@ -27,7 +27,7 @@ These DOIs belong to the evolving **Signal True Always True Research Collection*
 - https://doi.org/10.5281/zenodo.17502958  
 - https://doi.org/10.5281/zenodo.17505854  
 - https://doi.org/10.5281/zenodo.17832587
-All PDF files and tomes will be archived in the GitHub repository under:  
+  All PDF files and tomes will be archived in the GitHub repository under:  
 `/tomes/`
 
 ## 📂 Download PDFs
