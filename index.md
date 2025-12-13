@@ -67,7 +67,6 @@ Development notes, memory loops, and conceptual AGI components will be stored in
 
 ## 📩 Contact
 - ResearchGate: https://www.researchgate.net/profile/Mathieu-Roy-15
-## 🆔 ORCID
 
 My academic profile (ORCID):  
 https://orcid.org/0009-0005-4098-0319
