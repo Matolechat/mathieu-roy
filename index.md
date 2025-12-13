@@ -67,13 +67,14 @@ Development notes, memory loops, and conceptual AGI components will be stored in
 
 ## 📩 Contact
 - ResearchGate: https://www.researchgate.net/profile/Mathieu-Roy-15
+- LinkedIn: https://www.linkedin.com/in/mathieu-r-a8742382
+  
+- My academic profile (ORCID):  
+  https://orcid.org/0009-0005-4098-0319
 
-My academic profile (ORCID):  
-https://orcid.org/0009-0005-4098-0319
-
-This ORCID record aggregates all official versions of my work  
-(**Signal True Always True**), including Zenodo DOIs and archived PDFs  
-available below.
+  This ORCID record aggregates all official versions of my work  
+  (**Signal True Always True**), including Zenodo DOIs and archived PDFs  
+  available below.
 
 - GitHub: https://github.com/Matolechat  
 
