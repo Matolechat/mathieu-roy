@@ -68,7 +68,7 @@ Development notes, memory loops, and conceptual AGI components will be stored in
 ## 📩 Contact
 - ResearchGate: https://www.researchgate.net/profile/Mathieu-Roy-15
 - LinkedIn: https://www.linkedin.com/in/mathieu-r-a8742382
-  
+- Email: foxtrot911ops@proton.me
 - My academic profile (ORCID):  
   https://orcid.org/0009-0005-4098-0319
 
