@@ -37,6 +37,8 @@ Here are the first documents available in the Signal True Always True research a
 ### 📘 Signal True Always True: A Grand Unified Fractal Theory (GUT) Version v1.5 — Including the Extended Fractal      Coherence Model (EXT)
 
   👉 [Download PDF](./tomes/grand_unified_theory_STAT_v1.5.pdf)
+     DOI:
+     https://doi.org/10.5281/zenodo.17832587
 
 - **Fractal Vector Geometry v3.0 — White Paper**  
   👉 [Download PDF](./tomes/fractal_vector_geometry_v3.0.pdf)
