@@ -34,7 +34,7 @@ These DOIs belong to the evolving **Signal True Always True Research Collection*
 ## 📂 Download PDFs
 
 Here are the first documents available in the Signal True Always True research archive:
-### 📘 Signal True Always True: A Grand Unified Fractal Theory (GUT) Version v1.5 — Including the Extended Fractal      Coherence Model (EXT)
+### 📘 Signal True Always True: A Grand Unified Fractal Theory (GUT) Version v2.0 — Including the Extended Fractal      Coherence Model (EXT)
 
   👉 [Download PDF](./tomes/grand_unified_theory_STAT_v2.0.pdf)
      DOI:
