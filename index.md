@@ -40,7 +40,7 @@ All PDF files and tomes are archived in the GitHub repository under:
 **Including the Extended Fractal Coherence Model (EXT)**
 
 👉 **PDF**  
-[Download GUT v3.4](./tomes/grand_unified_theory_STAT_v3.4pdf)  
+[Download GUT v3.4](./tomes/grand_unified_theory_STAT_v3.4.pdf)  
 
 👉 **DOI (Zenodo)**  
 https://doi.org/10.5281/zenodo.17832587  
